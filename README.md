@@ -4,14 +4,14 @@
 
 AEO & GEO Tracker is an Apify Actor that checks which searches show a Google AI Overview, whether your website is cited (and at what position), which competitors and brands are cited instead, and how that changes over time.
 
-**Price:** $0.04 per keyword ($0.032 on Gold); $0.01 until 16 Oct 2026 · **Run it:** [https://apify.com/automationnation/aeo-auditor](https://apify.com/automationnation/aeo-auditor) · **Guide:** [https://retracn.github.io/automationnation-actors/aeo-auditor/](https://retracn.github.io/automationnation-actors/aeo-auditor/)
+**Price:** $0.04 per keyword ($0.032 on Gold), plus $2 per run from 17 Nov 2026; $0.01 per keyword until 16 Oct 2026 · **Run it:** [https://apify.com/automationnation/aeo-auditor](https://apify.com/automationnation/aeo-auditor) · **Guide:** [https://retracn.github.io/automationnation-actors/aeo-auditor/](https://retracn.github.io/automationnation-actors/aeo-auditor/)
 
 ## Quick facts
 
 - One row per keyword: whether an AI Overview appears, every cited URL (redirects resolved), your citation position, competitor domains and brand mentions, organic rank, and gained / lost since your last run.
 - Any Google country and language.
 - About 30 seconds per keyword; keywords Google blocks are retried and never charged.
-- Price: $0.04 per keyword ($0.032 on Gold) from 17 Oct 2026, $0.01 before; Apify's free $5 credit covers 125+ checks.
+- Price: $0.04 per keyword ($0.032 on Gold) from 17 Oct 2026 ($0.01 before), plus $2 per run from 17 Nov 2026. Apify's free $5 credit covers a run of up to 75 keywords.
 
 ## Example input
 
