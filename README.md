@@ -9,6 +9,7 @@ AEO & GEO Tracker is an Apify Actor that checks which searches show a Google AI 
 ## Quick facts
 
 - One row per keyword: whether an AI Overview appears, every cited URL (redirects resolved), your citation position, competitor domains and brand mentions, organic rank, and gained / lost since your last run.
+- Every run saves a client-ready HTML report (coverage, citation rate and position, gains and losses, trend over time, domains cited instead) and can alert Slack, Discord or any webhook when citations are gained or lost.
 - Any Google country and language.
 - About 30 seconds per keyword; keywords Google blocks are retried and never charged.
 - Price: $0.04 per keyword ($0.032 on Gold) from 17 Oct 2026 ($0.01 before), plus $2 per run from 17 Nov 2026. Apify's free $5 credit covers a run of up to 75 keywords.
